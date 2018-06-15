@@ -1,9 +1,7 @@
 # Stage One: Wellcome to C++ world
-In this stage, Im going to do some simple c++ programs. For instance
-    * if statement
-    * for/while
+In this stage, Im going to do some simple c++ programs
 
-## You can find all exersices here:
+## You can find all ADCENTURES here:
 * stepZero: try out if everything work :D
 
 * Adventure 1: Number of seconds
